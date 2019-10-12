@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Example_04.Models.Student>
+
+@{
+    ViewData["Title"] = "Index";
+    
+}
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+<body>
+<h1>Danh sách sinh viên</h1>
+
+<p>
+    <a asp-action="Create">Thêm sinh viên</a> 
+</p>
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MaSv)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HoTen)
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaSv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id"><i class="fa fa-pencil" aria-hidden="true" style="font-size: 20px;padding-left: 50px;"></i></a> 
+                @* <a asp-action="Details" asp-route-id="@item.Id">Details</a> | *@
+                <a asp-action="Delete" asp-route-id="@item.Id"><i class="fa fa-trash-o" aria-hidden="true" style="font-size: 20px; padding-left: 50px;"></i></a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+</body>

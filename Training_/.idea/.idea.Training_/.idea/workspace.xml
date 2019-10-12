@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4fb1b24-9b8b-498e-97fc-3d25aebc4012" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Training_04@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Training_Ex4/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="33" column="121" selection-start-line="33" selection-start-column="77" selection-end-line="33" selection-end-column="121" />
+              <folding>
+                <marker date="1565145625301" expanded="false" signature="6:320" ph="..." />
+                <marker date="1565145625301" expanded="true" signature="370:2274" ph="{...}" />
+                <marker date="1565145625301" expanded="true" signature="429:492" ph="{...}" />
+                <marker date="1565145625301" expanded="true" signature="715:1354" ph="{...}" />
+                <marker date="1565145625301" expanded="true" signature="788:1065" ph="{...}" />
+                <marker date="1565145625301" expanded="true" signature="1542:2268" ph="{...}" />
+                <marker date="1565145625301" expanded="true" signature="1589:1666" ph="{...}" />
+                <marker date="1565145625301" expanded="true" signature="1683:1942" ph="{...}" />
+                <marker date="1565145625301" expanded="true" signature="2085:2256" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Training_Ex4/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1564546361247" expanded="false" signature="6:255" ph="..." />
+                <marker date="1564546361247" expanded="true" signature="306:604" ph="{...}" />
+                <marker date="1564546361247" expanded="true" signature="359:433" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentRepository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Training_Ex4/Services/StudentRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <folding>
+                <marker date="1565145819466" expanded="false" signature="6:115" ph="..." />
+                <marker date="1565145819466" expanded="true" signature="196:1294" ph="{...}" />
+                <marker date="1565145819466" expanded="true" signature="303:355" ph="{...}" />
+                <marker date="1565145819466" expanded="true" signature="405:463" ph="{...}" />
+                <marker date="1565145819466" expanded="true" signature="515:587" ph="{...}" />
+                <marker date="1565145819466" expanded="true" signature="642:770" ph="{...}" />
+                <marker date="1565145819466" expanded="true" signature="812:1037" ph="{...}" />
+                <marker date="1565145819466" expanded="true" signature="909:1027" ph="{...}" />
+                <marker date="1565145819466" expanded="true" signature="1089:1204" ph="{...}" />
+                <marker date="1565145819466" expanded="true" signature="1232:1288" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Training_Ex4/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Create.cshtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Home/Create.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+              <folding>
+                <marker date="1565144520157" expanded="true" signature="35:73" ph="@..." />
+                <marker date="1565144520157" expanded="true" signature="75:520" ph="&lt;head.../&gt;" />
+                <marker date="1565144520157" expanded="true" signature="521:1286" ph="&lt;body.../&gt;" />
+                <marker date="1565144520157" expanded="true" signature="529:1277" ph="&lt;div.../&gt;" />
+                <marker date="1565144520157" expanded="true" signature="601:1270" ph="&lt;form.../&gt;" />
+                <marker date="1565144520157" expanded="true" signature="637:839" ph="&lt;div.../&gt;" />
+                <marker date="1565144520157" expanded="true" signature="735:824" ph="&lt;div.../&gt;" />
+                <marker date="1565144520157" expanded="true" signature="848:1060" ph="&lt;div.../&gt;" />
+                <marker date="1565144520157" expanded="true" signature="947:1045" ph="&lt;div.../&gt;" />
+                <marker date="1565144520157" expanded="true" signature="1074:1258" ph="&lt;div.../&gt;" />
+                <marker date="1565144520157" expanded="true" signature="1119:1243" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Training_Ex4/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding>
+                <marker date="1565145576144" expanded="true" signature="6:210" ph="..." />
+                <marker date="1565145576144" expanded="true" signature="292:1404" ph="{...}" />
+                <marker date="1565145576144" expanded="true" signature="431:503" ph="{...}" />
+                <marker date="1565145576144" expanded="true" signature="540:587" ph="{...}" />
+                <marker date="1565145576144" expanded="true" signature="627:674" ph="{...}" />
+                <marker date="1565145576144" expanded="true" signature="730:777" ph="{...}" />
+                <marker date="1565145576144" expanded="true" signature="907:1038" ph="{...}" />
+                <marker date="1565145576144" expanded="true" signature="1039:1394" ph="/* public IActionResult Insert() ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Shared/_Layout.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="32" selection-start-line="39" selection-start-column="23" selection-end-line="47" selection-end-column="32" />
+              <folding>
+                <marker date="1565144966119" expanded="true" signature="16:4552" ph="&lt;html.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="23:894" ph="&lt;head.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="194:328" ph="&lt;environment.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="333:834" ph="&lt;environment.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="895:4544" ph="&lt;body.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="906:2991" ph="&lt;header.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="923:2977" ph="&lt;nav.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="1046:2962" ph="&lt;div.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="1196:1499" ph="&lt;button.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="1516:2943" ph="&lt;div.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="1612:2920" ph="&lt;ul.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="1672:1843" ph="&lt;li.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="1868:2044" ph="&lt;li.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="2069:2243" ph="&lt;li.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="2268:2894" ph="@*...*@" />
+                <marker date="1565144966119" expanded="true" signature="2996:3161" ph="&lt;div.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="3077:3150" ph="&lt;main.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="3167:3384" ph="&lt;footer.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="3221:3370" ph="&lt;div.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="3390:3580" ph="&lt;environment.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="3585:4421" ph="&lt;environment.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="3629:3964" ph="&lt;script.../&gt;" />
+                <marker date="1565144966119" expanded="true" signature="3973:4402" ph="&lt;script.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_CookieConsentPartial.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Shared/_CookieConsentPartial.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1564546343992" expanded="true" signature="43:240" ph="@..." />
+                <marker date="1564546343992" expanded="true" signature="242:1025" ph="@..." />
+                <marker date="1564546343992" expanded="true" signature="258:1025" ph="{...}" />
+                <marker date="1564546343992" expanded="true" signature="265:715" ph="&lt;div.../&gt;" />
+                <marker date="1564546343992" expanded="true" signature="510:704" ph="&lt;button.../&gt;" />
+                <marker date="1564546343992" expanded="true" signature="720:1023" ph="&lt;script.../&gt;" />
+                <marker date="1564546343992" expanded="true" signature="750:1005" ph="{...}" />
+                <marker date="1564546343992" expanded="true" signature="908:986" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IStudent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Training_Ex4/Services/IStudent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <marker date="1565145740729" expanded="false" signature="6:86" ph="..." />
+                <marker date="1565145740729" expanded="true" signature="151:418" ph="{...}" />
+                <marker date="1565145740729" expanded="true" signature="167:412" ph="/* IEnumerable&lt;Student&gt; GetStudents(); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SchoolDbContext.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Training_Ex4/Models/SchoolDbContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+              <folding>
+                <marker date="1565084658105" expanded="true" signature="122:367" ph="{...}" />
+                <marker date="1565084658105" expanded="true" signature="243:263" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Views/Shared/_Layout.cshtml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Services/StudentRepository.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Models/Student.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Views/Home/Create.cshtml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Views/Home/Delete.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Views/Home/Insert.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Views/Home/Update.cshtml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Models/Class.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Startup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Services/IClass.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Controllers/HomeController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Migrations/20190731044201_Training_04.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Migrations/StudentDbContextModelSnapshot.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Migrations/20190731044201_Training_04.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Services/IStudent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Views/Home/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Models/SchoolDbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Training_Ex4/Views/Shared/_CookieConsentPartial.cshtml" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Training_Ex4/Models/ClassDbContext.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/appsettings.json" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Models/StudentDbContext.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/70117cd2-72d4-42a9-9559-5e537d2d3c40/console.sql" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Models/Class_SV.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Migrations/StudentDbContextModelSnapshot.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Migrations/20190731044201_Training_04.Designer.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Controllers/SchoolController.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Models/School.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Pages/Home/Create.cshtml" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Properties/DbContext.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Repository/DbContext.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Repository/StudentRepos.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Models/Class.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Entities/Class.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Repository/SchoolDbContext.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Controllers/StudentController.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Repository/ClassRepository.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Services/IClass.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Models/SQLStudentRepository.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Models/StudentRepository.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Pages/Home/Insert.cshtml" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Helpers/SchoolDbContext.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Models/SchoolDbContext.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Pages/Home/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Models/Student.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Views/Home/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Views/Home/Insert.cshtml" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Views/Home/Update.cshtml" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Views/Home/Create.cshtml" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Repository/StudentRepository.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Startup.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Services/IStudent.cs" />
+        <option value="$PROJECT_DIR$/Training_Ex4/Services/StudentRepository.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="119" />
+    <option name="y" value="129" />
+    <option name="width" value="773" />
+    <option name="height" value="591" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Training_ (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Training_ (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Training_Ex4 (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Training_Ex4/Helpers" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Training_Ex4/bin/Debug/netcoreapp2.2/Training_Ex4.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Training_Ex4" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="https://localhost:5001;http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Training_Ex4/Training_Ex4.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser start="true" url="https://localhost:5001" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4fb1b24-9b8b-498e-97fc-3d25aebc4012" name="Default" comment="" />
+      <created>1564546351791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564546351791</updated>
+      <workItem from="1564546353303" duration="2617000" />
+      <workItem from="1564623362244" duration="8261000" />
+      <workItem from="1564727811656" duration="9531000" />
+      <workItem from="1564967672952" duration="9681000" />
+      <workItem from="1565010450180" duration="193000" />
+      <workItem from="1565062956003" duration="1156000" />
+      <workItem from="1565064151029" duration="4223000" />
+      <workItem from="1565073679468" duration="3522000" />
+      <workItem from="1565082869817" duration="4914000" />
+      <workItem from="1565140388519" duration="884000" />
+      <workItem from="1565141487579" duration="4331000" />
+      <workItem from="1565146209481" duration="13000" />
+      <workItem from="1565147310799" duration="42000" />
+      <workItem from="1565147615115" duration="15000" />
+      <workItem from="1565148117100" duration="29000" />
+      <workItem from="1565148388365" duration="8000" />
+      <workItem from="1565151881253" duration="41000" />
+      <workItem from="1565248433997" duration="55000" />
+      <workItem from="1565248898269" duration="44000" />
+      <workItem from="1565256266384" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49578000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35620916" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.19934641" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38068634" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.035913806" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.02124183" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="REST Client" order="7" />
+      <window_info anchor="bottom" id="Database Console" order="7" visible="true" weight="0.19934641" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.21732026" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+          <folding>
+            <marker date="1565145625301" expanded="false" signature="6:320" ph="..." />
+            <marker date="1565145625301" expanded="true" signature="370:2274" ph="{...}" />
+            <marker date="1565145625301" expanded="true" signature="429:492" ph="{...}" />
+            <marker date="1565145625301" expanded="true" signature="715:1354" ph="{...}" />
+            <marker date="1565145625301" expanded="true" signature="788:1065" ph="{...}" />
+            <marker date="1565145625301" expanded="true" signature="1542:2268" ph="{...}" />
+            <marker date="1565145625301" expanded="true" signature="1589:1666" ph="{...}" />
+            <marker date="1565145625301" expanded="true" signature="1683:1942" ph="{...}" />
+            <marker date="1565145625301" expanded="true" signature="2085:2256" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Models/School.cs" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Models/ClassDbContext.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/70117cd2-72d4-42a9-9559-5e537d2d3c40/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://70117cd2-72d4-42a9-9559-5e537d2d3c40/database/Training_04/schema/dbo/table/__EFMigrationsHistory">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Migrations/20190731044201_Training_04.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Migrations/20190731044201_Training_04.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Controllers/SchoolController.cs" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Pages/Home/Create.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Properties/DbContext.cs" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Properties/DbContext.cs" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Repository/StudentRepos.cs" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Services/StudentRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Entities/Student.cs" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Entities/Class.cs" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Models/School.cs" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Repository/SchoolDbContext.cs" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Services/StudentRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Controllers/StudentController.cs" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Repository/ClassRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Pages/Home/Insert.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Helpers/SchoolDbContext.cs" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Models/Class.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Pages/Home/Delete.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Services/IClass.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Home/Privacy.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Student/Insert.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Student/Delete.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Student/Update.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Student/Create.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Models/Student.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Home/Delete.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Home/Insert.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Home/Update.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Migrations/StudentDbContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="32" selection-start-line="39" selection-start-column="23" selection-end-line="47" selection-end-column="32" />
+          <folding>
+            <marker date="1565144966119" expanded="true" signature="16:4552" ph="&lt;html.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="23:894" ph="&lt;head.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="194:328" ph="&lt;environment.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="333:834" ph="&lt;environment.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="895:4544" ph="&lt;body.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="906:2991" ph="&lt;header.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="923:2977" ph="&lt;nav.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="1046:2962" ph="&lt;div.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="1196:1499" ph="&lt;button.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="1516:2943" ph="&lt;div.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="1612:2920" ph="&lt;ul.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="1672:1843" ph="&lt;li.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="1868:2044" ph="&lt;li.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="2069:2243" ph="&lt;li.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="2268:2894" ph="@*...*@" />
+            <marker date="1565144966119" expanded="true" signature="2996:3161" ph="&lt;div.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="3077:3150" ph="&lt;main.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="3167:3384" ph="&lt;footer.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="3221:3370" ph="&lt;div.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="3390:3580" ph="&lt;environment.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="3585:4421" ph="&lt;environment.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="3629:3964" ph="&lt;script.../&gt;" />
+            <marker date="1565144966119" expanded="true" signature="3973:4402" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Shared/_CookieConsentPartial.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564546343992" expanded="true" signature="43:240" ph="@..." />
+            <marker date="1564546343992" expanded="true" signature="242:1025" ph="@..." />
+            <marker date="1564546343992" expanded="true" signature="258:1025" ph="{...}" />
+            <marker date="1564546343992" expanded="true" signature="265:715" ph="&lt;div.../&gt;" />
+            <marker date="1564546343992" expanded="true" signature="510:704" ph="&lt;button.../&gt;" />
+            <marker date="1564546343992" expanded="true" signature="720:1023" ph="&lt;script.../&gt;" />
+            <marker date="1564546343992" expanded="true" signature="750:1005" ph="{...}" />
+            <marker date="1564546343992" expanded="true" signature="908:986" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <marker date="1565145576144" expanded="true" signature="6:210" ph="..." />
+            <marker date="1565145576144" expanded="true" signature="292:1404" ph="{...}" />
+            <marker date="1565145576144" expanded="true" signature="431:503" ph="{...}" />
+            <marker date="1565145576144" expanded="true" signature="540:587" ph="{...}" />
+            <marker date="1565145576144" expanded="true" signature="627:674" ph="{...}" />
+            <marker date="1565145576144" expanded="true" signature="730:777" ph="{...}" />
+            <marker date="1565145576144" expanded="true" signature="907:1038" ph="{...}" />
+            <marker date="1565145576144" expanded="true" signature="1039:1394" ph="/* public IActionResult Insert() ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564546361247" expanded="false" signature="6:255" ph="..." />
+            <marker date="1564546361247" expanded="true" signature="306:604" ph="{...}" />
+            <marker date="1564546361247" expanded="true" signature="359:433" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Services/StudentRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <marker date="1565145819466" expanded="false" signature="6:115" ph="..." />
+            <marker date="1565145819466" expanded="true" signature="196:1294" ph="{...}" />
+            <marker date="1565145819466" expanded="true" signature="303:355" ph="{...}" />
+            <marker date="1565145819466" expanded="true" signature="405:463" ph="{...}" />
+            <marker date="1565145819466" expanded="true" signature="515:587" ph="{...}" />
+            <marker date="1565145819466" expanded="true" signature="642:770" ph="{...}" />
+            <marker date="1565145819466" expanded="true" signature="812:1037" ph="{...}" />
+            <marker date="1565145819466" expanded="true" signature="909:1027" ph="{...}" />
+            <marker date="1565145819466" expanded="true" signature="1089:1204" ph="{...}" />
+            <marker date="1565145819466" expanded="true" signature="1232:1288" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Models/SchoolDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <marker date="1565084658105" expanded="true" signature="122:367" ph="{...}" />
+            <marker date="1565084658105" expanded="true" signature="243:263" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="33" column="121" selection-start-line="33" selection-start-column="77" selection-end-line="33" selection-end-column="121" />
+          <folding>
+            <marker date="1565145625301" expanded="false" signature="6:320" ph="..." />
+            <marker date="1565145625301" expanded="true" signature="370:2274" ph="{...}" />
+            <marker date="1565145625301" expanded="true" signature="429:492" ph="{...}" />
+            <marker date="1565145625301" expanded="true" signature="715:1354" ph="{...}" />
+            <marker date="1565145625301" expanded="true" signature="788:1065" ph="{...}" />
+            <marker date="1565145625301" expanded="true" signature="1542:2268" ph="{...}" />
+            <marker date="1565145625301" expanded="true" signature="1589:1666" ph="{...}" />
+            <marker date="1565145625301" expanded="true" signature="1683:1942" ph="{...}" />
+            <marker date="1565145625301" expanded="true" signature="2085:2256" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Services/IStudent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <marker date="1565145740729" expanded="false" signature="6:86" ph="..." />
+            <marker date="1565145740729" expanded="true" signature="151:418" ph="{...}" />
+            <marker date="1565145740729" expanded="true" signature="167:412" ph="/* IEnumerable&lt;Student&gt; GetStudents(); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training_Ex4/Views/Home/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <marker date="1565144520157" expanded="true" signature="35:73" ph="@..." />
+            <marker date="1565144520157" expanded="true" signature="75:520" ph="&lt;head.../&gt;" />
+            <marker date="1565144520157" expanded="true" signature="521:1286" ph="&lt;body.../&gt;" />
+            <marker date="1565144520157" expanded="true" signature="529:1277" ph="&lt;div.../&gt;" />
+            <marker date="1565144520157" expanded="true" signature="601:1270" ph="&lt;form.../&gt;" />
+            <marker date="1565144520157" expanded="true" signature="637:839" ph="&lt;div.../&gt;" />
+            <marker date="1565144520157" expanded="true" signature="735:824" ph="&lt;div.../&gt;" />
+            <marker date="1565144520157" expanded="true" signature="848:1060" ph="&lt;div.../&gt;" />
+            <marker date="1565144520157" expanded="true" signature="947:1045" ph="&lt;div.../&gt;" />
+            <marker date="1565144520157" expanded="true" signature="1074:1258" ph="&lt;div.../&gt;" />
+            <marker date="1565144520157" expanded="true" signature="1119:1243" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

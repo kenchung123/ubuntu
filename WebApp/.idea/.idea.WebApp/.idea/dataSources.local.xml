@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="@localhost" uuid="04ee8940-7062-4df6-8ff7-b856dd770e98">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <introspection-schemas>Data:SinhVien|master:dbo</introspection-schemas>
+    </data-source>
+  </component>
+</project>

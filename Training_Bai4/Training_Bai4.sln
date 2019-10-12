@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training_Bai4", "Training_Bai4\Training_Bai4.csproj", "{92E75300-BBF6-4678-8230-9B300E82323E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E75300-BBF6-4678-8230-9B300E82323E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E75300-BBF6-4678-8230-9B300E82323E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E75300-BBF6-4678-8230-9B300E82323E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E75300-BBF6-4678-8230-9B300E82323E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

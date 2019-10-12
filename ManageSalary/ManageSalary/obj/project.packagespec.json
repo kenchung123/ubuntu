@@ -1,0 +1,71 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary/ManageSalary.csproj",
+    "projectName": "ManageSalary",
+    "projectPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary/ManageSalary.csproj",
+    "outputPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Model/ManageSalary.Model.csproj": {
+            "projectPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Model/ManageSalary.Model.csproj"
+          },
+          "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Repository/ManageSalary.Repository.csproj": {
+            "projectPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Repository/ManageSalary.Repository.csproj"
+          },
+          "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/ManageSalary.Service.csproj": {
+            "projectPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/ManageSalary.Service.csproj"
+          },
+          "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.UnitOfWork/ManageSalary.UnitOfWork.csproj": {
+            "projectPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.UnitOfWork/ManageSalary.UnitOfWork.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

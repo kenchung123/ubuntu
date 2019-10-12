@@ -1,0 +1,9 @@
+/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/bin/Debug/netcoreapp2.2/ManageSalary.Service.deps.json
+/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/bin/Debug/netcoreapp2.2/ManageSalary.Service.dll
+/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/bin/Debug/netcoreapp2.2/ManageSalary.Service.pdb
+/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/obj/Debug/netcoreapp2.2/ManageSalary.Service.csproj.CoreCompileInputs.cache
+/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/obj/Debug/netcoreapp2.2/ManageSalary.Service.AssemblyInfoInputs.cache
+/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/obj/Debug/netcoreapp2.2/ManageSalary.Service.AssemblyInfo.cs
+/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/obj/Debug/netcoreapp2.2/ManageSalary.Service.dll
+/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/obj/Debug/netcoreapp2.2/ManageSalary.Service.pdb
+/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/obj/Debug/netcoreapp2.2/ManageSalary.Service.csprojAssemblyReference.cache

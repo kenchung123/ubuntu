@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3e6b6e5-002f-428a-87eb-711b6a33f033" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Example@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Example@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="Example: database" type="bdf80c8a:MssqlImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Example@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="Example: database" type="bdf80c8a:MssqlImplModel$Database" />
+        <item name="dbo: schema" type="3adcb6a6:MssqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Example@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="Example: database" type="bdf80c8a:MssqlImplModel$Database" />
+        <item name="dbo: schema" type="3adcb6a6:MssqlImplModel$Schema" />
+        <item name="__EFMigrationsHistory: table" type="a00791b9:MssqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Example@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="Example: database" type="bdf80c8a:MssqlImplModel$Database" />
+        <item name="dbo: schema" type="3adcb6a6:MssqlImplModel$Schema" />
+        <item name="User: table" type="a00791b9:MssqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="User.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeFirst/Models/User.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+              <folding>
+                <marker date="1564471201945" expanded="true" signature="26:234" ph="{...}" />
+                <marker date="1564471201945" expanded="true" signature="50:232" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDbContext.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeFirst/Models/UserDbContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <folding>
+                <marker date="1564469792451" expanded="true" signature="64:264" ph="{...}" />
+                <marker date="1564469792451" expanded="true" signature="109:262" ph="{...}" />
+                <marker date="1564469792451" expanded="true" signature="188:210" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeFirst/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+              <folding>
+                <marker date="1564468894003" expanded="false" signature="6:178" ph="..." />
+                <marker date="1564468894003" expanded="true" signature="211:705" ph="{...}" />
+                <marker date="1564468894003" expanded="true" signature="258:703" ph="{...}" />
+                <marker date="1564468894003" expanded="true" signature="301:348" ph="{...}" />
+                <marker date="1564468894003" expanded="true" signature="388:435" ph="{...}" />
+                <marker date="1564468894003" expanded="true" signature="566:697" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodeFirst/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeFirst/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1564468894007" expanded="false" signature="6:255" ph="..." />
+                <marker date="1564468894007" expanded="true" signature="303:601" ph="{...}" />
+                <marker date="1564468894007" expanded="true" signature="356:430" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.Development.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeFirst/appsettings.Development.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/507ce541-c882-411f-81e0-b0f76a42900d/console.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="UserDbContextModelSnapshot.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeFirst/Migrations/UserDbContextModelSnapshot.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1564538489764" expanded="false" signature="28:241" ph="..." />
+                <marker date="1564538489764" expanded="true" signature="273:1379" ph="{...}" />
+                <marker date="1564538489764" expanded="true" signature="375:1377" ph="{...}" />
+                <marker date="1564538489764" expanded="true" signature="451:1371" ph="{...}" />
+                <marker date="1564538489764" expanded="true" signature="844:1326" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DATABASE/5c7f0643-8297-4433-9169-ed5542b6773c.TABLE:Training.dbo.User" pinned="false" current-in-tab="false">
+        <entry file="uml://DATABASE/5c7f0643-8297-4433-9169-ed5542b6773c.TABLE:Training.dbo.User">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>DATABASE</ID>
+              <OriginalElement>5c7f0643-8297-4433-9169-ed5542b6773c.TABLE:Training.dbo.User</OriginalElement>
+              <nodes />
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Key columns</Category>
+                <Category>Columns</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeFirst/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="64" column="72" selection-start-line="64" selection-start-column="72" selection-end-line="64" selection-end-column="72" />
+              <folding>
+                <marker date="1564470792208" expanded="false" signature="6:424" ph="..." />
+                <marker date="1564470792208" expanded="true" signature="472:2329" ph="{...}" />
+                <marker date="1564470792208" expanded="true" signature="531:594" ph="{...}" />
+                <marker date="1564470792208" expanded="true" signature="817:1409" ph="{...}" />
+                <marker date="1564470792208" expanded="true" signature="891:1168" ph="{...}" />
+                <marker date="1564470792208" expanded="true" signature="1597:2323" ph="{...}" />
+                <marker date="1564470792208" expanded="true" signature="1644:1721" ph="{...}" />
+                <marker date="1564470792208" expanded="true" signature="1738:1997" ph="{...}" />
+                <marker date="1564470792208" expanded="true" signature="2140:2311" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CodeFirst/Models/UserDbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeFirst/Startup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeFirst/Migrations/UserDbContextModelSnapshot.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeFirst/Controllers/HomeController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeFirst/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeFirst/Models/ErrorViewModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeFirst/Models/User.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CodeFirst/Models/UserDBContextcs.cs" />
+        <option value="$PROJECT_DIR$/CodeFirst/Models/UserDbContext.cs" />
+        <option value="$PROJECT_DIR$/CodeFirst/Startup.cs" />
+        <option value="$PROJECT_DIR$/CodeFirst/Models/User.cs" />
+        <option value="$PROJECT_DIR$/CodeFirst/appsettings.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="126" />
+    <option name="y" value="107" />
+    <option name="width" value="1013" />
+    <option name="height" value="373" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CodeFirst (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CodeFirst (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CodeFirst" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)" />
+    <property name="database.console.LAST_STATE" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3e6b6e5-002f-428a-87eb-711b6a33f033" name="Default" comment="" />
+      <created>1564468888411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564468888411</updated>
+      <workItem from="1564468889871" duration="2786000" />
+      <workItem from="1564472649414" duration="981000" />
+      <workItem from="1564535431848" duration="363000" />
+      <workItem from="1564537776903" duration="893000" />
+      <workItem from="1565141318490" duration="39000" />
+      <workItem from="1565226230864" duration="419000" />
+      <workItem from="1567476070313" duration="107000" />
+      <workItem from="1568217342997" duration="165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5753000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.119281046" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3480392" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26735833" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="right" id="Database" order="3" visible="true" weight="0.3623304" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="7" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Migrations/UserDbContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564538489764" expanded="false" signature="28:241" ph="..." />
+            <marker date="1564538489764" expanded="true" signature="273:1379" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="375:1377" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="451:1371" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="844:1326" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5c7f0643-8297-4433-9169-ed5542b6773c.TABLE:Training.dbo.User">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5c7f0643-8297-4433-9169-ed5542b6773c.TABLE:Training.dbo.User</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="15" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
+          <folding>
+            <marker date="1564470792208" expanded="false" signature="6:424" ph="..." />
+            <marker date="1564470792208" expanded="true" signature="472:2329" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="531:594" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="817:1409" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="891:1168" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1597:2323" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1644:1721" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1738:1997" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="2140:2311" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/507ce541-c882-411f-81e0-b0f76a42900d/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Models/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Models/UserDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <marker date="1564469792451" expanded="true" signature="64:264" ph="{...}" />
+            <marker date="1564469792451" expanded="true" signature="109:262" ph="{...}" />
+            <marker date="1564469792451" expanded="true" signature="188:210" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5c7f0643-8297-4433-9169-ed5542b6773c/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Migrations/UserDbContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564538489764" expanded="false" signature="28:241" ph="..." />
+            <marker date="1564538489764" expanded="true" signature="273:1379" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="375:1377" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="451:1371" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="844:1326" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5c7f0643-8297-4433-9169-ed5542b6773c.TABLE:Training.dbo.User">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5c7f0643-8297-4433-9169-ed5542b6773c.TABLE:Training.dbo.User</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="15" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
+          <folding>
+            <marker date="1564470792208" expanded="false" signature="6:424" ph="..." />
+            <marker date="1564470792208" expanded="true" signature="472:2329" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="531:594" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="817:1409" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="891:1168" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1597:2323" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1644:1721" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1738:1997" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="2140:2311" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/507ce541-c882-411f-81e0-b0f76a42900d/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Models/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Models/UserDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <marker date="1564469792451" expanded="true" signature="64:264" ph="{...}" />
+            <marker date="1564469792451" expanded="true" signature="109:262" ph="{...}" />
+            <marker date="1564469792451" expanded="true" signature="188:210" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="83" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5c7f0643-8297-4433-9169-ed5542b6773c/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Migrations/UserDbContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564538489764" expanded="false" signature="28:241" ph="..." />
+            <marker date="1564538489764" expanded="true" signature="273:1379" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="375:1377" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="451:1371" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="844:1326" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="15" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
+          <folding>
+            <marker date="1564470792208" expanded="false" signature="6:424" ph="..." />
+            <marker date="1564470792208" expanded="true" signature="472:2329" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="531:594" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="817:1409" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="891:1168" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1597:2323" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1644:1721" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1738:1997" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="2140:2311" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5c7f0643-8297-4433-9169-ed5542b6773c.TABLE:Training.dbo.User">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5c7f0643-8297-4433-9169-ed5542b6773c.TABLE:Training.dbo.User</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="114.0" y="65.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Models/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="83" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5c7f0643-8297-4433-9169-ed5542b6773c/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Migrations/UserDbContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564538489764" expanded="false" signature="28:241" ph="..." />
+            <marker date="1564538489764" expanded="true" signature="273:1379" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="375:1377" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="451:1371" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="844:1326" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="15" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
+          <folding>
+            <marker date="1564470792208" expanded="false" signature="6:424" ph="..." />
+            <marker date="1564470792208" expanded="true" signature="472:2329" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="531:594" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="817:1409" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="891:1168" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1597:2323" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1644:1721" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1738:1997" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="2140:2311" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Models/UserDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <marker date="1564469792451" expanded="true" signature="64:264" ph="{...}" />
+            <marker date="1564469792451" expanded="true" signature="109:262" ph="{...}" />
+            <marker date="1564469792451" expanded="true" signature="188:210" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Models/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Migrations/20190730072045_AddRole.cs" />
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Models/UserDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="71" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
+          <folding>
+            <marker date="1564469792451" expanded="true" signature="64:264" ph="{...}" />
+            <marker date="1564469792451" expanded="true" signature="109:262" ph="{...}" />
+            <marker date="1564469792451" expanded="true" signature="188:210" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="15" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
+          <folding>
+            <marker date="1564470792208" expanded="false" signature="6:424" ph="..." />
+            <marker date="1564470792208" expanded="true" signature="472:2329" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="531:594" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="817:1409" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="891:1168" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1597:2323" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1644:1721" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1738:1997" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="2140:2311" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Migrations/20190730071549_InitialCreate.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b3104c88-c7a5-42a3-ab2c-b08f61fc3003/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://b3104c88-c7a5-42a3-ab2c-b08f61fc3003/database/User/schema/dbo/table/__EFMigrationsHistory" />
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Models/UserDBContextcs.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b3104c88-c7a5-42a3-ab2c-b08f61fc3003/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://DATABASE/b3104c88-c7a5-42a3-ab2c-b08f61fc3003.SCHEMA:User.dbo">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>b3104c88-c7a5-42a3-ab2c-b08f61fc3003.SCHEMA:User.dbo</OriginalElement>
+          <nodes>
+            <node x="0.0" y="174.0">b3104c88-c7a5-42a3-ab2c-b08f61fc3003.TABLE:User.dbo.__EFMigrationsHistory</node>
+            <node x="0.0" y="0.0">b3104c88-c7a5-42a3-ab2c-b08f61fc3003.TABLE:User.dbo.User</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="111.0" y="179.0" />
+          <SelectedNodes>
+            <node>b3104c88-c7a5-42a3-ab2c-b08f61fc3003.TABLE:User.dbo.__EFMigrationsHistory</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Migrations/20190730071549_InitialCreate.cs" />
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Migrations/20190730072045_AddRole.cs" />
+    <entry file="das://b3104c88-c7a5-42a3-ab2c-b08f61fc3003/database/User/schema/dbo/table/__EFMigrationsHistory" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5c7f0643-8297-4433-9169-ed5542b6773c/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Migrations/UserDbContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564538489764" expanded="false" signature="28:241" ph="..." />
+            <marker date="1564538489764" expanded="true" signature="273:1379" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="375:1377" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="451:1371" ph="{...}" />
+            <marker date="1564538489764" expanded="true" signature="844:1326" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5c7f0643-8297-4433-9169-ed5542b6773c.TABLE:Training.dbo.User">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5c7f0643-8297-4433-9169-ed5542b6773c.TABLE:Training.dbo.User</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/507ce541-c882-411f-81e0-b0f76a42900d/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="64" column="72" selection-start-line="64" selection-start-column="72" selection-end-line="64" selection-end-column="72" />
+          <folding>
+            <marker date="1564470792208" expanded="false" signature="6:424" ph="..." />
+            <marker date="1564470792208" expanded="true" signature="472:2329" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="531:594" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="817:1409" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="891:1168" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1597:2323" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1644:1721" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="1738:1997" ph="{...}" />
+            <marker date="1564470792208" expanded="true" signature="2140:2311" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564468894007" expanded="false" signature="6:255" ph="..." />
+            <marker date="1564468894007" expanded="true" signature="303:601" ph="{...}" />
+            <marker date="1564468894007" expanded="true" signature="356:430" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <marker date="1564468894003" expanded="false" signature="6:178" ph="..." />
+            <marker date="1564468894003" expanded="true" signature="211:705" ph="{...}" />
+            <marker date="1564468894003" expanded="true" signature="258:703" ph="{...}" />
+            <marker date="1564468894003" expanded="true" signature="301:348" ph="{...}" />
+            <marker date="1564468894003" expanded="true" signature="388:435" ph="{...}" />
+            <marker date="1564468894003" expanded="true" signature="566:697" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Models/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <marker date="1564471201945" expanded="true" signature="26:234" ph="{...}" />
+            <marker date="1564471201945" expanded="true" signature="50:232" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/Models/UserDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <marker date="1564469792451" expanded="true" signature="64:264" ph="{...}" />
+            <marker date="1564469792451" expanded="true" signature="109:262" ph="{...}" />
+            <marker date="1564469792451" expanded="true" signature="188:210" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeFirst/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

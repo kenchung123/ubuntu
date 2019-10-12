@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Training@localhost" uuid="5c7f0643-8297-4433-9169-ed5542b6773c">
+      <database-info product="Microsoft SQL Server" version="14.00.3192" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 7.2 for SQL Server" driver-version="7.2.1.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>SA</user-name>
+      <introspection-schemas>Training:dbo</introspection-schemas>
+    </data-source>
+    <data-source name="Example@localhost" uuid="507ce541-c882-411f-81e0-b0f76a42900d">
+      <database-info product="Microsoft SQL Server" version="14.00.3192" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 7.2 for SQL Server" driver-version="7.2.1.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>SA</user-name>
+      <introspection-schemas>Example:dbo</introspection-schemas>
+    </data-source>
+  </component>
+</project>

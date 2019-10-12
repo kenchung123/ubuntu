@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f549ef55-2553-492a-902b-3d54a1837017" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRM.Model/Class1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1568089501205" expanded="true" signature="60:72" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRM.R/Class1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1568089572026" expanded="true" signature="56:68" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRM.Repository/Class1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1568089614350" expanded="true" signature="65:77" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRM.Service/Class1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1568089636126" expanded="true" signature="62:74" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRM.UnitOfWork/Class1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <marker date="1568089660195" expanded="true" signature="65:77" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DocumentController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRM/Controllers/DocumentController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1565443614000" expanded="false" signature="6:257" ph="..." />
+                <marker date="1565443614000" expanded="true" signature="303:1492" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="404:1490" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="512:566" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="642:738" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="847:929" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="1026:1103" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="1216:1317" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="1415:1486" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CategoryController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRM/Controllers/CategoryController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1565443614000" expanded="false" signature="6:314" ph="..." />
+                <marker date="1565443614000" expanded="true" signature="360:1801" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="467:1799" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="586:654" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="775:893" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="1017:1134" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="1243:1340" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="1465:1592" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="1702:1793" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRM/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1565443614000" expanded="false" signature="6:838" ph="..." />
+                <marker date="1565443614000" expanded="true" signature="872:3672" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="899:3670" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="1026:1119" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="1342:2552" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="2027:2146" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="2216:2540" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="2320:2524" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="2744:3664" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="2791:2868" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="2885:3088" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="3201:3230" ph="{...}" />
+                <marker date="1565443614000" expanded="true" signature="3246:3363" ph="/* Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), ... */" />
+                <marker date="1565443614000" expanded="true" signature="3397:3502" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRM/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HRM/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding>
+                <marker date="1568089431920" expanded="false" signature="6:255" ph="..." />
+                <marker date="1568089431920" expanded="true" signature="270:597" ph="{...}" />
+                <marker date="1568089431920" expanded="true" signature="297:595" ph="{...}" />
+                <marker date="1568089431920" expanded="true" signature="350:424" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/HRM.Model/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HRM/Controllers/CategoryController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HRM.R/Class1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HRM/Controllers/DocumentController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HRM.Repository/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HRM.Service/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HRM.UnitOfWork/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HRM/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HRM/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HRM.Model/Class1.cs" />
+        <option value="$PROJECT_DIR$/HRM.R/Class1.cs" />
+        <option value="$PROJECT_DIR$/HRM.Repository/Class1.cs" />
+        <option value="$PROJECT_DIR$/HRM.Service/Class1.cs" />
+        <option value="$PROJECT_DIR$/HRM.UnitOfWork/Class1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HRM (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HRM (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="HRM" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HRM (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="HRM" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HRM (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="HRM" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETCoreApp 2.2" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HRM (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="HRM" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETCoreApp 2.2" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Packages" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HRM (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="HRM" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HRM (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="HRM" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Properties" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f549ef55-2553-492a-902b-3d54a1837017" name="Default" comment="" />
+      <created>1568089426804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568089426804</updated>
+      <workItem from="1568089427943" duration="526000" />
+      <workItem from="1568090156438" duration="96000" />
+      <workItem from="1568090808590" duration="281000" />
+      <workItem from="1568091282893" duration="1056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1959000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" visible="true" weight="0.32843137" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.53152436" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HRM.Model/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089501205" expanded="true" signature="60:72" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.R/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089572026" expanded="true" signature="56:68" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.Repository/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089614350" expanded="true" signature="65:77" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.Service/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089636126" expanded="true" signature="62:74" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.UnitOfWork/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1568089660195" expanded="true" signature="65:77" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM/Controllers/DocumentController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1565443614000" expanded="false" signature="6:257" ph="..." />
+            <marker date="1565443614000" expanded="true" signature="303:1492" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="404:1490" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="512:566" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="642:738" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="847:929" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1026:1103" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1216:1317" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1415:1486" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM/Controllers/CategoryController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1565443614000" expanded="false" signature="6:314" ph="..." />
+            <marker date="1565443614000" expanded="true" signature="360:1801" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="467:1799" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="586:654" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="775:893" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1017:1134" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1243:1340" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1465:1592" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1702:1793" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1565443614000" expanded="false" signature="6:838" ph="..." />
+            <marker date="1565443614000" expanded="true" signature="872:3672" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="899:3670" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1026:1119" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1342:2552" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="2027:2146" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="2216:2540" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="2320:2524" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="2744:3664" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="2791:2868" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="2885:3088" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="3201:3230" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="3246:3363" ph="/* Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), ... */" />
+            <marker date="1565443614000" expanded="true" signature="3397:3502" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.Model/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089501205" expanded="true" signature="60:72" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.R/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089572026" expanded="true" signature="56:68" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.Repository/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089614350" expanded="true" signature="65:77" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.Service/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089636126" expanded="true" signature="62:74" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.UnitOfWork/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1568089660195" expanded="true" signature="65:77" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.Model/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089501205" expanded="true" signature="60:72" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.R/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089572026" expanded="true" signature="56:68" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.Repository/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089614350" expanded="true" signature="65:77" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.Service/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089636126" expanded="true" signature="62:74" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.UnitOfWork/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <marker date="1568089660195" expanded="true" signature="65:77" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.Model/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089501205" expanded="true" signature="60:72" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.R/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089572026" expanded="true" signature="56:68" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.Repository/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089614350" expanded="true" signature="65:77" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.Service/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1568089636126" expanded="true" signature="62:74" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM.UnitOfWork/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1568089660195" expanded="true" signature="65:77" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM/Controllers/DocumentController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1565443614000" expanded="false" signature="6:257" ph="..." />
+            <marker date="1565443614000" expanded="true" signature="303:1492" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="404:1490" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="512:566" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="642:738" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="847:929" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1026:1103" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1216:1317" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1415:1486" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM/Controllers/CategoryController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1565443614000" expanded="false" signature="6:314" ph="..." />
+            <marker date="1565443614000" expanded="true" signature="360:1801" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="467:1799" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="586:654" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="775:893" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1017:1134" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1243:1340" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1465:1592" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1702:1793" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1565443614000" expanded="false" signature="6:838" ph="..." />
+            <marker date="1565443614000" expanded="true" signature="872:3672" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="899:3670" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1026:1119" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="1342:2552" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="2027:2146" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="2216:2540" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="2320:2524" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="2744:3664" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="2791:2868" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="2885:3088" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="3201:3230" ph="{...}" />
+            <marker date="1565443614000" expanded="true" signature="3246:3363" ph="/* Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), ... */" />
+            <marker date="1565443614000" expanded="true" signature="3397:3502" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRM/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <marker date="1568089431920" expanded="false" signature="6:255" ph="..." />
+            <marker date="1568089431920" expanded="true" signature="270:597" ph="{...}" />
+            <marker date="1568089431920" expanded="true" signature="297:595" ph="{...}" />
+            <marker date="1568089431920" expanded="true" signature="350:424" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

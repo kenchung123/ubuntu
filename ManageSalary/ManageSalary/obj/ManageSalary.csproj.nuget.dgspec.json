@@ -1,0 +1,290 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kenchung/RiderProjects/ManageSalary/ManageSalary/ManageSalary.csproj": {}
+  },
+  "projects": {
+    "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Model/ManageSalary.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Model/ManageSalary.Model.csproj",
+        "projectName": "ManageSalary.Model",
+        "projectPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Model/ManageSalary.Model.csproj",
+        "packagesPath": "/home/kenchung/.nuget/packages/",
+        "outputPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Model/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/kenchung/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Repository/ManageSalary.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Repository/ManageSalary.Repository.csproj",
+        "projectName": "ManageSalary.Repository",
+        "projectPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Repository/ManageSalary.Repository.csproj",
+        "packagesPath": "/home/kenchung/.nuget/packages/",
+        "outputPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/kenchung/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/ManageSalary.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/ManageSalary.Service.csproj",
+        "projectName": "ManageSalary.Service",
+        "projectPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/ManageSalary.Service.csproj",
+        "packagesPath": "/home/kenchung/.nuget/packages/",
+        "outputPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/kenchung/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.UnitOfWork/ManageSalary.UnitOfWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.UnitOfWork/ManageSalary.UnitOfWork.csproj",
+        "projectName": "ManageSalary.UnitOfWork",
+        "projectPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.UnitOfWork/ManageSalary.UnitOfWork.csproj",
+        "packagesPath": "/home/kenchung/.nuget/packages/",
+        "outputPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.UnitOfWork/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/kenchung/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/kenchung/RiderProjects/ManageSalary/ManageSalary/ManageSalary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary/ManageSalary.csproj",
+        "projectName": "ManageSalary",
+        "projectPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary/ManageSalary.csproj",
+        "packagesPath": "/home/kenchung/.nuget/packages/",
+        "outputPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/kenchung/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Model/ManageSalary.Model.csproj": {
+                "projectPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Model/ManageSalary.Model.csproj"
+              },
+              "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Repository/ManageSalary.Repository.csproj": {
+                "projectPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Repository/ManageSalary.Repository.csproj"
+              },
+              "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/ManageSalary.Service.csproj": {
+                "projectPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.Service/ManageSalary.Service.csproj"
+              },
+              "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.UnitOfWork/ManageSalary.UnitOfWork.csproj": {
+                "projectPath": "/home/kenchung/RiderProjects/ManageSalary/ManageSalary.UnitOfWork/ManageSalary.UnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

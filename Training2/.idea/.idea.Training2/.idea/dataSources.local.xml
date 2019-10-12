@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Training@localhost" uuid="37c5af30-431d-4654-9b62-cf908dffe85d">
+      <database-info product="Microsoft SQL Server" version="14.00.3192" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 7.2 for SQL Server" driver-version="7.2.1.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>SA</user-name>
+      <introspection-schemas>Training:dbo</introspection-schemas>
+    </data-source>
+    <data-source name="Training2@localhost" uuid="31adf67e-1d6a-4a74-9e10-a0a5f6d0721c">
+      <database-info product="Microsoft SQL Server" version="14.00.3192" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 7.2 for SQL Server" driver-version="7.2.1.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>SA</user-name>
+      <introspection-schemas>Training2:dbo</introspection-schemas>
+    </data-source>
+    <data-source name="Training3@localhost" uuid="9f410989-3324-432c-ad98-b26ba81eeeb4">
+      <database-info product="Microsoft SQL Server" version="14.00.3192" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 7.2 for SQL Server" driver-version="7.2.1.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>SA</user-name>
+      <introspection-schemas>Training3:dbo</introspection-schemas>
+    </data-source>
+  </component>
+</project>

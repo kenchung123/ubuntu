@@ -1,0 +1,75 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/kenchung/RiderProjects/HRM/HRM/HRM.csproj",
+    "projectName": "HRM",
+    "projectPath": "/home/kenchung/RiderProjects/HRM/HRM/HRM.csproj",
+    "outputPath": "/home/kenchung/RiderProjects/HRM/HRM/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/kenchung/RiderProjects/HRM/HRM.Model/HRM.Model.csproj": {
+            "projectPath": "/home/kenchung/RiderProjects/HRM/HRM.Model/HRM.Model.csproj"
+          },
+          "/home/kenchung/RiderProjects/HRM/HRM.Repository/HRM.Repository.csproj": {
+            "projectPath": "/home/kenchung/RiderProjects/HRM/HRM.Repository/HRM.Repository.csproj"
+          },
+          "/home/kenchung/RiderProjects/HRM/HRM.Service/HRM.Service.csproj": {
+            "projectPath": "/home/kenchung/RiderProjects/HRM/HRM.Service/HRM.Service.csproj"
+          },
+          "/home/kenchung/RiderProjects/HRM/HRM.UnitOfWork/HRM.UnitOfWork.csproj": {
+            "projectPath": "/home/kenchung/RiderProjects/HRM/HRM.UnitOfWork/HRM.UnitOfWork.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "log4net": {
+          "target": "Package",
+          "version": "[2.0.8, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

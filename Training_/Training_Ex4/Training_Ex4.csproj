@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\Student\Create.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Student\Delete.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Student\Insert.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Student\Update.cshtml" />
+    <_ContentIncludedByDefault Remove="Student\Create.cshtml" />
+    <_ContentIncludedByDefault Remove="Student\Delete.cshtml" />
+    <_ContentIncludedByDefault Remove="Student\Insert.cshtml" />
+    <_ContentIncludedByDefault Remove="Student\Update.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repository" />
+  </ItemGroup>
+</Project>
